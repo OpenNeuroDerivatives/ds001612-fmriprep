@@ -1,1 +1,25 @@
-../../../../.git/annex/objects/88/30/MD5E-s4370--4b20c3a071b0d6f1fcb3bd0fee2d35c8.11/MD5E-s4370--4b20c3a071b0d6f1fcb3bd0fee2d35c8.11
+Downloading https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-L_den-164k_desc-std_sphere.surf.gii
+  0%|          | 0.00/4.09M [00:00<?, ?B/s]  2%|▏         | 87.0k/4.09M [00:00<00:05, 723kB/s] 18%|█▊        | 731k/4.09M [00:00<00:01, 3.20MB/s] 81%|████████▏ | 3.33M/4.09M [00:00<00:00, 12.0MB/s]100%|██████████| 4.09M/4.09M [00:00<00:00, 11.1MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_desc-std_sphere.surf.gii
+  0%|          | 0.00/4.09M [00:00<?, ?B/s]  2%|▏         | 87.0k/4.09M [00:00<00:05, 733kB/s] 20%|██        | 836k/4.09M [00:00<00:00, 3.76MB/s] 84%|████████▎ | 3.42M/4.09M [00:00<00:00, 12.6MB/s]100%|██████████| 4.09M/4.09M [00:00<00:00, 11.5MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-fsaverage/tpl-fsaverage_hemi-R_den-164k_desc-vaavg_midthickness.shape.gii
+  0%|          | 0.00/772k [00:00<?, ?B/s] 11%|█         | 86.0k/772k [00:00<00:01, 630kB/s]100%|██████████| 772k/772k [00:00<00:00, 3.32MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-L_den-32k_sphere.surf.gii
+  0%|          | 0.00/720k [00:00<?, ?B/s] 12%|█▏        | 87.0k/720k [00:00<00:00, 639kB/s]100%|██████████| 720k/720k [00:00<00:00, 3.10MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_space-fsaverage_hemi-R_den-32k_sphere.surf.gii
+  0%|          | 0.00/708k [00:00<?, ?B/s] 12%|█▏        | 87.0k/708k [00:00<00:01, 620kB/s]100%|██████████| 708k/708k [00:00<00:00, 2.97MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-L_den-32k_desc-vaavg_midthickness.shape.gii
+  0%|          | 0.00/151k [00:00<?, ?B/s] 58%|█████▊    | 87.0k/151k [00:00<00:00, 618kB/s]100%|██████████| 151k/151k [00:00<00:00, 1.06MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-fsLR/tpl-fsLR_hemi-R_den-32k_desc-vaavg_midthickness.shape.gii
+  0%|          | 0.00/151k [00:00<?, ?B/s] 58%|█████▊    | 87.0k/151k [00:00<00:00, 619kB/s]100%|██████████| 151k/151k [00:00<00:00, 1.07MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_desc-carpet_dseg.nii.gz
+  0%|          | 0.00/451k [00:00<?, ?B/s] 20%|█▉        | 89.1k/451k [00:00<00:00, 670kB/s]100%|██████████| 451k/451k [00:00<00:00, 2.02MB/s]
+pandoc: /scratch1/03201/jbwexler/openneuro_derivatives_tests/derivatives/fmriprep/ds001612-fmriprep/logs/CITATION.md: openBinaryFile: does not exist (No such file or directory)
+Could not generate CITATION.html file:
+pandoc -s --bibliography /usr/local/miniconda/lib/python3.7/site-packages/fmriprep/data/boilerplate.bib --filter pandoc-citeproc --metadata pagetitle="fMRIPrep citation boilerplate" /scratch1/03201/jbwexler/openneuro_derivatives_tests/derivatives/fmriprep/ds001612-fmriprep/logs/CITATION.md -o /scratch1/03201/jbwexler/openneuro_derivatives_tests/derivatives/fmriprep/ds001612-fmriprep/logs/CITATION.html
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin6Asym/tpl-MNI152NLin6Asym_res-02_T1w.nii.gz
+  0%|          | 0.00/1.41M [00:00<?, ?B/s]  6%|▌         | 86.0k/1.41M [00:00<00:02, 647kB/s] 57%|█████▋    | 800k/1.41M [00:00<00:00, 3.49MB/s]100%|██████████| 1.41M/1.41M [00:00<00:00, 5.16MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-02_T1w.nii.gz
+  0%|          | 0.00/1.76M [00:00<?, ?B/s]  5%|▌         | 89.1k/1.76M [00:00<00:02, 656kB/s] 48%|████▊     | 838k/1.76M [00:00<00:00, 3.60MB/s]100%|██████████| 1.76M/1.76M [00:00<00:00, 5.48MB/s]
+Downloading https://templateflow.s3.amazonaws.com/tpl-MNI152NLin2009cAsym/tpl-MNI152NLin2009cAsym_res-01_T1w.nii.gz
+  0%|          | 0.00/13.7M [00:00<?, ?B/s]  1%|          | 86.0k/13.7M [00:00<00:21, 621kB/s]  6%|▌         | 852k/13.7M [00:00<00:03, 3.56MB/s] 24%|██▍       | 3.27M/13.7M [00:00<00:00, 11.4MB/s] 57%|█████▋    | 7.83M/13.7M [00:00<00:00, 22.1MB/s]100%|██████████| 13.7M/13.7M [00:00<00:00, 24.8MB/s]

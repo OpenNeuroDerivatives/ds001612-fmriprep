@@ -1,1 +1,4 @@
-../../../../.git/annex/objects/5Q/9F/MD5E-s250--0cb4ed514f7a1317ec8866f9d8463433/MD5E-s250--0cb4ed514f7a1317ec8866f9d8463433
+WARNING (08/21/21 09:50:19): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.3444764.hostlist.N6BM30PO to get hosts
+starting job on c208-025
+Warning: Permanently added 'c208-025' (ED25519) to the list of known hosts.

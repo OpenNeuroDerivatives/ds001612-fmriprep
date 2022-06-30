@@ -1,1 +1,16 @@
-../../../../.git/annex/objects/27/Gm/MD5E-s892--d04eb57e9f135138bb30466b297e7c13/MD5E-s892--d04eb57e9f135138bb30466b297e7c13
+Launcher: Setup complete.
+
+------------- SUMMARY ---------------
+   Number of hosts:    1
+   Working directory:  /scratch1/03201/jbwexler/openneuro_derivatives_tests/derivatives/fmriprep/ds001612-fmriprep
+   Processes per host: 1
+   Total processes:    1
+   Total jobs:         1
+   Scheduling method:  dynamic
+
+-------------------------------------
+Launcher: Starting parallel tasks...
+Launcher: Task 0 running job 1 on c208-002.frontera.tacc.utexas.edu (/scratch1/03201/jbwexler/openneuro_derivatives_tests/derivatives/fmriprep/ds001612-fmriprep/.reproman/jobs/local/20210824-112637-a8da/runscript 0 >/scratch1/03201/jbwexler/openneuro_derivatives_tests/derivatives/fmriprep/ds001612-fmriprep/.reproman/jobs/local/20210824-112637-a8da/stdout.0 2>/scratch1/03201/jbwexler/openneuro_derivatives_tests/derivatives/fmriprep/ds001612-fmriprep/.reproman/jobs/local/20210824-112637-a8da/stderr.0)
+Launcher: Job 1 completed in 25006 seconds.
+Launcher: Task 0 done. Exiting.
+Launcher: Done. Job exited without errors

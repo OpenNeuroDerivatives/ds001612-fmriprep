@@ -1,1 +1,5 @@
-../../../../.git/annex/objects/1f/JM/MD5E-s334--70c82d6a3daf924ff46cdfaf5590b35a/MD5E-s334--70c82d6a3daf924ff46cdfaf5590b35a
+WARNING (08/22/21 15:39:45): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.3447870.hostlist.MyWNqqVb to get hosts
+starting job on c207-003
+Warning: Permanently added 'c207-003' (ED25519) to the list of known hosts.
+slurmstepd: error: *** JOB 3447870 ON c207-003 CANCELLED AT 2021-08-22T15:47:00 ***
