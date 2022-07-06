@@ -1,0 +1,4 @@
+WARNING (08/23/21 11:23:42): LAUNCHER_WORKDIR variable not set. Using current directory.
+using /tmp/launcher.3450742.hostlist.GwOPrYPy to get hosts
+starting job on c211-015
+Warning: Permanently added 'c211-015' (ED25519) to the list of known hosts.
